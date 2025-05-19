@@ -1,6 +1,6 @@
 # Trustworthy-AI
 
-Dataset Ownership Verification
+**Dataset Ownership Verification**
 | Paper Title                                      | Code Available | Conference / Journal | Tag (Read) |
 |--------------------------------------------------|----------------|----------------------|------------|
 | Black-Box Dataset Ownership Verification via Backdoor Watermarking  | Yes            | TIFS 2023           | Yes          |
@@ -8,4 +8,21 @@ Dataset Ownership Verification
 | Domain watermark: Effective and harmless dataset copyright protection is closed at hand | Yes | NIPS 2023 | No |
 | Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection | Yes | NIPS 2022 | No |
 | Pointncbw: Towards dataset ownership verification for point clouds via negative clean-label backdoor watermark | Yes | TIFS 2024 | No |
+
+**Adversarial Attacks**
+| Paper Title                                      | Code Available | Conference / Journal | Tag (Read) |
+|--------------------------------------------------|----------------|----------------------|------------|
+| Towards Deep Learning Models Resistant to Adversarial Attacks  | Yes            | ICLR 2023           | No          |
+| Better Diffusion Models Further Improve Adversarial Training | Yes | ICML 2023 | No |
+| Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models | Yes | NIPS 2024 | No |
+| Global Filter Networks for Image Classification | Yes | NIPS 2021 | No |
+| Improving Robustness using Generated Data | No | NIPS 2021 | No |
+| Data Augmentation Can Improve Robustness | No | NIPS 2021 | No |
+| Frequency Domain Model Augmentation for Adversarial Attack | Yes | ECCV 2022 | No |
+| LAS-AT: Adversarial Training With Learnable Attack Strategy | Yes | CVPR 2022 | No |
+
+
+
+
+
 
