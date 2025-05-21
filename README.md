@@ -20,6 +20,9 @@
 | Data Augmentation Can Improve Robustness | No | NIPS 2021 | No |
 | Frequency Domain Model Augmentation for Adversarial Attack | Yes | ECCV 2022 | No |
 | LAS-AT: Adversarial Training With Learnable Attack Strategy | Yes | CVPR 2022 | No |
+| Decoupled Kullback-Leibler Divergence Loss | Yes | NIPS 2024 | No |
+| Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations | Yes | ICML 2024 | No |
+
 
 
 
