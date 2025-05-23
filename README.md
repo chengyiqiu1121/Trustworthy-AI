@@ -10,6 +10,10 @@
 | Pointncbw: Towards dataset ownership verification for point clouds via negative clean-label backdoor watermark | Yes | TIFS 2024 | No |
 
 **Adversarial Attacks**
+Note:
+- Keep track on this guy: Francesco Croce. He researched on Adversarial Robustness during his PHD strage. Now he focus on Jailbreaking, Backdoor and so on.
+
+
 | Paper Title                                      | Code Available | Conference / Journal | Tag (Read) |
 |--------------------------------------------------|----------------|----------------------|------------|
 | Towards Deep Learning Models Resistant to Adversarial Attacks  | Yes            | ICLR 2018           | No          |
@@ -22,6 +26,7 @@
 | LAS-AT: Adversarial Training With Learnable Attack Strategy | Yes | CVPR 2022 | No |
 | Decoupled Kullback-Leibler Divergence Loss | Yes | NIPS 2024 | No |
 | Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations | Yes | ICML 2024 | No |
+| **RobustBench: a standardized adversarial robustness benchmark** | Yes | NIPS 2021 | No |
 
 
 
