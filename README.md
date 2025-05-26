@@ -16,7 +16,8 @@ Note:
 
 | Paper Title                                      | Code Available | Conference / Journal | Tag (Read) |
 |--------------------------------------------------|----------------|----------------------|------------|
-| Towards Deep Learning Models Resistant to Adversarial Attacks  | Yes            | ICLR 2018           | No          |
+| Towards Deep Learning Models Resistant to Adversarial Attacks  | Yes            | ICLR 2018           | Yes          |
+| Explaining and Harnessing Adversarial Examples | Yes | ICLR 2025 | No |
 | Better Diffusion Models Further Improve Adversarial Training | Yes | ICML 2023 | No |
 | Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models | Yes | NIPS 2024 | No |
 | Global Filter Networks for Image Classification | Yes | NIPS 2021 | No |
