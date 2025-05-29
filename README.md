@@ -30,6 +30,7 @@ Note:
 | **RobustBench: a standardized adversarial robustness benchmark** | Yes | NIPS 2021 | No |
 | Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack | Yes | ICML 2020 | No |
 | Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks | Yes | ICML 2020 | No |
+| Overfitting in adversarially robust deep learning | Yes | ICML 2020 | No |
 
 
 
