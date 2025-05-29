@@ -17,14 +17,14 @@ Note:
 | Paper Title                                      | Code Available | Conference / Journal | Tag (Read) |
 |--------------------------------------------------|----------------|----------------------|------------|
 | Towards Deep Learning Models Resistant to Adversarial Attacks  | Yes            | ICLR 2018           | Yes          |
-| Explaining and Harnessing Adversarial Examples | Yes | ICLR 2025 | No |
+| Explaining and Harnessing Adversarial Examples | Yes | ICLR 2025 | Yes |
 | Better Diffusion Models Further Improve Adversarial Training | Yes | ICML 2023 | No |
 | Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models | Yes | NIPS 2024 | No |
 | Global Filter Networks for Image Classification | Yes | NIPS 2021 | No |
 | Improving Robustness using Generated Data | No | NIPS 2021 | No |
 | Data Augmentation Can Improve Robustness | No | NIPS 2021 | No |
 | Frequency Domain Model Augmentation for Adversarial Attack | Yes | ECCV 2022 | Yes |
-| LAS-AT: Adversarial Training With Learnable Attack Strategy | Yes | CVPR 2022 | No |
+| LAS-AT: Adversarial Training With Learnable Attack Strategy | Yes | CVPR 2022 | Yes |
 | Decoupled Kullback-Leibler Divergence Loss | Yes | NIPS 2024 | No |
 | Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations | Yes | ICML 2024 | No |
 | **RobustBench: a standardized adversarial robustness benchmark** | Yes | NIPS 2021 | No |
