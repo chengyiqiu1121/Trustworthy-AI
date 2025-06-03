@@ -32,6 +32,7 @@ Note:
 | Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks | Yes | ICML 2020 | No |
 | Overfitting in adversarially robust deep learning | Yes | ICML 2020 | No |
 | Black-Box Sparse Adversarial Attack via Multi-Objective Optimisa | Yes | CVPR 2023 | No|
+| Sparse and Imperceivable Adversarial Attack | Yes | ICCV 2019 | No |
 
 
 
