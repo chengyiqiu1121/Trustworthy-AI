@@ -36,6 +36,7 @@ Note:
 | Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning | Yes | CVPR 2024 | Yes |
 | The Best Defense Is a Good Offense: Adversarial Augmentation Against Adversarial Attacks  | Yes | CVPR 2023 | No |
 | Simple Black-box Adversarial Attacks | Yes | ICML 2019 | No |
+| Boosting Adversarial Attacks With Momentum | Yes | CVPR 2018 | Yes |
 
 
 
