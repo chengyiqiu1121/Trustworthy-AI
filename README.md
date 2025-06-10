@@ -9,7 +9,7 @@
 | Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection | Yes | NIPS 2022 | No |
 | Pointncbw: Towards dataset ownership verification for point clouds via negative clean-label backdoor watermark | Yes | TIFS 2024 | No |
 
-**Adversarial Attacks**
+**Adversarial Attacks&Training**
 Note:
 - Keep track on this guy: Francesco Croce. He researched on Adversarial Robustness during his PHD strage. Now he focus on Jailbreaking, Backdoor and so on.
 
@@ -37,6 +37,7 @@ Note:
 | The Best Defense Is a Good Offense: Adversarial Augmentation Against Adversarial Attacks  | Yes | CVPR 2023 | No |
 | Simple Black-box Adversarial Attacks | Yes | ICML 2019 | No |
 | Boosting Adversarial Attacks With Momentum | Yes | CVPR 2018 | Yes |
+| Adversarial Training for Free! | Yes | NIPS 2019 | Yes |
 
 
 
