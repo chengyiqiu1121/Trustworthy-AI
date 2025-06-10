@@ -38,6 +38,8 @@ Note:
 | Simple Black-box Adversarial Attacks | Yes | ICML 2019 | No |
 | Boosting Adversarial Attacks With Momentum | Yes | CVPR 2018 | Yes |
 | Adversarial Training for Free! | Yes | NIPS 2019 | Yes |
+| Using Pre-Training Can Improve Model Robustness and Uncertainty | Yes | ICML 2019 | No |
+
 
 
 
