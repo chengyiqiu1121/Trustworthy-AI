@@ -40,6 +40,7 @@ Note:
 | Adversarial Training for Free! | Yes | NIPS 2019 | Yes |
 | Using Pre-Training Can Improve Model Robustness and Uncertainty | Yes | ICML 2019 | No |
 | Phantom Sponges: Exploiting Non-Maximum Suppression to Attack Deep Object Detectors | Yes | WACV 2023 | No |
+| Fooling Object Detectors: Adversarial Attacks by Half-Neighbor Masks | Yes | CIKM-WS 2020 | Yes |
 
 
 
