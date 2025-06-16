@@ -13,6 +13,7 @@
 Note:
 - Keep track on this guy: Francesco Croce. He researched on Adversarial Robustness during his PHD strage. Now he focus on Jailbreaking, Backdoor and so on.
 
+Attack:
 
 | Paper Title                                      | Code Available | Conference / Journal | Tag (Read) |
 |--------------------------------------------------|----------------|----------------------|------------|
@@ -21,8 +22,6 @@ Note:
 | Better Diffusion Models Further Improve Adversarial Training | Yes | ICML 2023 | No |
 | Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models | Yes | NIPS 2024 | No |
 | Global Filter Networks for Image Classification | Yes | NIPS 2021 | No |
-| Improving Robustness using Generated Data | No | NIPS 2021 | No |
-| Data Augmentation Can Improve Robustness | No | NIPS 2021 | No |
 | Frequency Domain Model Augmentation for Adversarial Attack | Yes | ECCV 2022 | Yes |
 | LAS-AT: Adversarial Training With Learnable Attack Strategy | Yes | CVPR 2022 | Yes |
 | Decoupled Kullback-Leibler Divergence Loss | Yes | NIPS 2024 | No |
@@ -30,22 +29,25 @@ Note:
 | **RobustBench: a standardized adversarial robustness benchmark** | Yes | NIPS 2021 | No |
 | Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack | Yes | ICML 2020 | No |
 | Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks | Yes | ICML 2020 | Yes |
-| Overfitting in adversarially robust deep learning | Yes | ICML 2020 | No |
 | Black-Box Sparse Adversarial Attack via Multi-Objective Optimisa | Yes | CVPR 2023 | No|
 | Sparse and Imperceivable Adversarial Attack | Yes | ICCV 2019 | No |
 | Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning | Yes | CVPR 2024 | Yes |
-| The Best Defense Is a Good Offense: Adversarial Augmentation Against Adversarial Attacks  | Yes | CVPR 2023 | No |
 | Simple Black-box Adversarial Attacks | Yes | ICML 2019 | No |
 | Boosting Adversarial Attacks With Momentum | Yes | CVPR 2018 | Yes |
-| Adversarial Training for Free! | Yes | NIPS 2019 | Yes |
-| Using Pre-Training Can Improve Model Robustness and Uncertainty | Yes | ICML 2019 | No |
 | Phantom Sponges: Exploiting Non-Maximum Suppression to Attack Deep Object Detectors | Yes | WACV 2023 | No |
 | Fooling Object Detectors: Adversarial Attacks by Half-Neighbor Masks | Yes | CIKM-WS 2020 | Yes |
 
+Train:
 
-
-
-
+| Paper Title                                      | Code Available | Conference / Journal | Tag (Read) |
+|--------------------------------------------------|----------------|----------------------|------------|
+| Adversarial Weight Perturbation Helps Robust Generalization | Yes | NIPS 2020 | Yes |
+| Using Pre-Training Can Improve Model Robustness and Uncertainty | Yes | ICML 2019 | Yes |
+| Adversarial Training for Free! | Yes | NIPS 2019 | Yes |
+| The Best Defense Is a Good Offense: Adversarial Augmentation Against Adversarial Attacks  | Yes | CVPR 2023 | No |
+| Overfitting in adversarially robust deep learning | Yes | ICML 2020 | No |
+| Improving Robustness using Generated Data | No | NIPS 2021 | No |
+| Data Augmentation Can Improve Robustness | No | NIPS 2021 | No |
 
 
 
